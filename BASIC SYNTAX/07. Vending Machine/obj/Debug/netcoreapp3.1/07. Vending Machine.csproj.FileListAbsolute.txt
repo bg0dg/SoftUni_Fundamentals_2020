@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\C#\SoftUni\source\2020_Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb

@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb

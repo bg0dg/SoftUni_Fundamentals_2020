@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb

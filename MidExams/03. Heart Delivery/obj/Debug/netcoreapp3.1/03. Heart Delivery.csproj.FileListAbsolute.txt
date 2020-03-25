@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb

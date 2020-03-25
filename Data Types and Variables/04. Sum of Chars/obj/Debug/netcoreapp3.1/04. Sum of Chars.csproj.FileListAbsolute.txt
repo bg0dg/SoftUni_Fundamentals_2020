@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\bin\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\04. Sum of Chars\obj\Debug\netcoreapp3.1\04. Sum of Chars.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.exe
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.dll
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\bin\Debug\netcoreapp3.1\1_BasixSyntac.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\obj\Debug\netcoreapp3.1\1_BasixSyntac.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\obj\Debug\netcoreapp3.1\1_BasixSyntac.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\obj\Debug\netcoreapp3.1\1_BasixSyntac.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\obj\Debug\netcoreapp3.1\1_BasixSyntac.dll
+E:\C#\SoftUni\source\2020_Fundamentals\1_BasixSyntac\obj\Debug\netcoreapp3.1\1_BasixSyntac.pdb

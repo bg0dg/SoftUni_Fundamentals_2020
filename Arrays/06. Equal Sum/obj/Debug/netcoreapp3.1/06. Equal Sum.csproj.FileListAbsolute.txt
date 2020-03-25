@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb

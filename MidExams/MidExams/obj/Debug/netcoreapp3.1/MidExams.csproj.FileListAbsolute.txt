@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\bin\Debug\netcoreapp3.1\MidExams.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\obj\Debug\netcoreapp3.1\MidExams.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\obj\Debug\netcoreapp3.1\MidExams.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\obj\Debug\netcoreapp3.1\MidExams.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\obj\Debug\netcoreapp3.1\MidExams.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\MidExams\obj\Debug\netcoreapp3.1\MidExams.pdb

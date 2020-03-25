@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb

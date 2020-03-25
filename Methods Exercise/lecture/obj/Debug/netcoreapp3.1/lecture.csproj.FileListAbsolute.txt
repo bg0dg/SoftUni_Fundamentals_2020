@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\bin\Debug\netcoreapp3.1\lecture.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\obj\Debug\netcoreapp3.1\lecture.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\obj\Debug\netcoreapp3.1\lecture.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\obj\Debug\netcoreapp3.1\lecture.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\obj\Debug\netcoreapp3.1\lecture.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Methods Exercise\lecture\obj\Debug\netcoreapp3.1\lecture.pdb

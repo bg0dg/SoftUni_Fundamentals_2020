@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb

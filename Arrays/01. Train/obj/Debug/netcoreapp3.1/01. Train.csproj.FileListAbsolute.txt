@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb

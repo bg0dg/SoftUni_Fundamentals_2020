@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Weaponsmith\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Weaponsmith.pdb

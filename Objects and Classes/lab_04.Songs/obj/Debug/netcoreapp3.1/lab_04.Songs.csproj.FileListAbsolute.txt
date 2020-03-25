@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\bin\Debug\netcoreapp3.1\lab_04.Songs.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\obj\Debug\netcoreapp3.1\lab_04.Songs.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\obj\Debug\netcoreapp3.1\lab_04.Songs.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\obj\Debug\netcoreapp3.1\lab_04.Songs.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\obj\Debug\netcoreapp3.1\lab_04.Songs.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_04.Songs\obj\Debug\netcoreapp3.1\lab_04.Songs.pdb

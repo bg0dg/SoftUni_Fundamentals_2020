@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.pdb

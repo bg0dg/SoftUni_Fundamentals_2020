@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+E:\C#\SoftUni\source\2020_Fundamentals\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb

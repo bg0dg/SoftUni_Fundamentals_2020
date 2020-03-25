@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb

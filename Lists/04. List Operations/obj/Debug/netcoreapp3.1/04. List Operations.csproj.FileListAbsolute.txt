@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csprojAssemblyReference.cache

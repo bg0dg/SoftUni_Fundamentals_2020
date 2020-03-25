@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Wizard Poker\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Wizard Poker.pdb

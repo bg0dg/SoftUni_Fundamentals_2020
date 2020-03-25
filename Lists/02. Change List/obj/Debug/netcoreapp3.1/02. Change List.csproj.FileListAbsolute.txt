@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb

@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Friendlist Maintenance\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Friendlist Maintenance.pdb

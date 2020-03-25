@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\bin\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\obj\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\obj\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\obj\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\01. Valid Usernames _Second_Solution\obj\Debug\netcoreapp3.1\01. Valid Usernames _Second_Solution.pdb

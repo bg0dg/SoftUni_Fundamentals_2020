@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.pdb

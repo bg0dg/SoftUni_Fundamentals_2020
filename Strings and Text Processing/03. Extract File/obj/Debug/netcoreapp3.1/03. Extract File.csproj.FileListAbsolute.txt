@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Strings and Text Processing\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb

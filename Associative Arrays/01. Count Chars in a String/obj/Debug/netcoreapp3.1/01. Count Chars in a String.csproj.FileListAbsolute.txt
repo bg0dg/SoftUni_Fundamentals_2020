@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.pdb

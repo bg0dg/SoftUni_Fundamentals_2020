@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Associative Arrays\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb

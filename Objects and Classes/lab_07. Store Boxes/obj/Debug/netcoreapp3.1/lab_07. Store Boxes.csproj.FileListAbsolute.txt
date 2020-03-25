@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\bin\Debug\netcoreapp3.1\lab_07. Store Boxes.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\obj\Debug\netcoreapp3.1\lab_07. Store Boxes.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\obj\Debug\netcoreapp3.1\lab_07. Store Boxes.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\obj\Debug\netcoreapp3.1\lab_07. Store Boxes.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\obj\Debug\netcoreapp3.1\lab_07. Store Boxes.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\lab_07. Store Boxes\obj\Debug\netcoreapp3.1\lab_07. Store Boxes.pdb

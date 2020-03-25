@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\bin\Debug\netcoreapp3.1\Data Type Finder.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\Data Type Finder\obj\Debug\netcoreapp3.1\Data Type Finder.pdb

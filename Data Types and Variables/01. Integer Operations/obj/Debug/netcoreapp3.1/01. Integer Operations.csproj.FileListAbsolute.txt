@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb

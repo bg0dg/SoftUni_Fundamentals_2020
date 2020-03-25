@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\bin\Debug\netcoreapp3.1\5. Teamwork projects_Example.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\obj\Debug\netcoreapp3.1\5. Teamwork projects_Example.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\obj\Debug\netcoreapp3.1\5. Teamwork projects_Example.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\obj\Debug\netcoreapp3.1\5. Teamwork projects_Example.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\obj\Debug\netcoreapp3.1\5. Teamwork projects_Example.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\5. Teamwork projects_Example\obj\Debug\netcoreapp3.1\5. Teamwork projects_Example.csprojAssemblyReference.cache

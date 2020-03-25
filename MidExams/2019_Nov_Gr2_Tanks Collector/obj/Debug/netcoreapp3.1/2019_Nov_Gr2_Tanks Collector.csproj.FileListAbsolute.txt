@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Tanks Collector\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Tanks Collector.pdb

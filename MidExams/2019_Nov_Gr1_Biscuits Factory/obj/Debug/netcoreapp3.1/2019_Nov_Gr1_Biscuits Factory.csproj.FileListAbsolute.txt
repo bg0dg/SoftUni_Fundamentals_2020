@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\bin\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr1_Biscuits Factory\obj\Debug\netcoreapp3.1\2019_Nov_Gr1_Biscuits Factory.pdb

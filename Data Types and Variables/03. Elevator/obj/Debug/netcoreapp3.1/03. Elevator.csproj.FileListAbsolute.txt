@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb

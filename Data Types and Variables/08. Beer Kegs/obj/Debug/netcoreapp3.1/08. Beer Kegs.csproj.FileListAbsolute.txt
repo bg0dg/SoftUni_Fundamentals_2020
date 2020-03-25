@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb

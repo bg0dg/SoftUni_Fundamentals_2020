@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Data Types and Variables\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb

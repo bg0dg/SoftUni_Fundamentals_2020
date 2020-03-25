@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "more_01. Messaging/1.0.0": {
+        "runtime": {
+          "more_01. Messaging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "more_01. Messaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

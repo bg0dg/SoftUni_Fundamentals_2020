@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+E:\C#\SoftUni\source\2020_Fundamentals\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb

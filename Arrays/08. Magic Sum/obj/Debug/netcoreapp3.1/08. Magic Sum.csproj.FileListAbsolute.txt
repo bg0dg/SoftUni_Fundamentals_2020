@@ -1,0 +1,10 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\bin\Debug\netcoreapp3.1\08. Magic Sum.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Arrays\08. Magic Sum\obj\Debug\netcoreapp3.1\08. Magic Sum.pdb

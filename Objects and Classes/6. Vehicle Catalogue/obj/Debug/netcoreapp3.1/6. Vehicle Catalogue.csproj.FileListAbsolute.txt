@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\bin\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\6. Vehicle Catalogue\obj\Debug\netcoreapp3.1\6. Vehicle Catalogue.pdb

@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\bin\Debug\netcoreapp3.1\03. Articles 2.0.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\03. Articles 2.0\obj\Debug\netcoreapp3.1\03. Articles 2.0.pdb

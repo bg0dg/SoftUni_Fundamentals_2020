@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\bin\Debug\netcoreapp3.1\more_01. Messaging.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\obj\Debug\netcoreapp3.1\more_01. Messaging.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\obj\Debug\netcoreapp3.1\more_01. Messaging.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\obj\Debug\netcoreapp3.1\more_01. Messaging.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\obj\Debug\netcoreapp3.1\more_01. Messaging.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\more_01. Messaging\obj\Debug\netcoreapp3.1\more_01. Messaging.pdb

@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csprojAssemblyReference.cache

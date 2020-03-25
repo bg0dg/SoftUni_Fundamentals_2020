@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.exe
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\bin\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.dll
+E:\C#\SoftUni\source\2020_Fundamentals\MidExams\2019_Nov_Gr2_Experience Gaining\obj\Debug\netcoreapp3.1\2019_Nov_Gr2_Experience Gaining.pdb

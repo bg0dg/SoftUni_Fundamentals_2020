@@ -1,0 +1,11 @@
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.exe
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.deps.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.runtimeconfig.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.runtimeconfig.dev.json
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\bin\Debug\netcoreapp3.1\Objects and Classes.pdb
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp3.1\Objects and Classes.csprojAssemblyReference.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp3.1\Objects and Classes.AssemblyInfoInputs.cache
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp3.1\Objects and Classes.AssemblyInfo.cs
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp3.1\Objects and Classes.dll
+E:\C#\SoftUni\source\2020_Fundamentals\Objects and Classes\Objects and Classes\obj\Debug\netcoreapp3.1\Objects and Classes.pdb
